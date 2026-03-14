@@ -3,8 +3,32 @@
 # DragonByte CTF Toolkit - Main CLI Entry Point
 # Usage: dragonbyte <module> <action> <target>
 # =============================================================================
+#
+# ┌─────────────────────────────────────────────────────────┐
+# │                        AUTHOR                           │
+# │                                                         │
+# │   Name    : Sanjai Rathinam                             │
+# │   GitHub  : https://github.com/SANJAIRATHINAM-R         │
+# │   Project : DragonByte CTF Toolkit                      │
+# │   Version : 1.0.0                                       │
+# │   License : MIT                                         │
+# │                                                         │
+# │   DragonByte is a community-driven cybersecurity        │
+# │   initiative. Built to help beginners and enthusiasts   │
+# │   learn ethical hacking and solve CTF challenges.       │
+# │                                                         │
+# │   Modules : Crypto | Stego | OSINT | Web                │
+# │             Forensics | Misc                            │
+# └─────────────────────────────────────────────────────────┘
+#
+# =============================================================================
 
-SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
+# Resolve real path even when called via symlink
+SCRIPT_SOURCE="${BASH_SOURCE[0]}"
+while [ -L "$SCRIPT_SOURCE" ]; do
+    SCRIPT_SOURCE="$(readlink "$SCRIPT_SOURCE")"
+done
+SCRIPT_DIR="$(cd "$(dirname "$SCRIPT_SOURCE")" && pwd)"
 BACKEND="$SCRIPT_DIR/backend/engine.py"
 
 # ANSI color codes
@@ -25,6 +49,9 @@ print_banner() {
     echo "  ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝  ╚═════╝ ╚═╝  ╚═══╝╚═════╝    ╚═╝      ╚═╝   ╚══════╝"
     echo -e "${RESET}"
     echo -e "${GREEN}  CTF Toolkit v1.0  |  Cybersecurity & CTF Challenge Solver${RESET}"
+    echo -e "${YELLOW}  ─────────────────────────────────────────────────────────${RESET}"
+    echo -e "${CYAN}  Author  : Sanjairathinam${RESET}"
+    echo -e "${CYAN}  GitHub  : https://github.com/SANJAIRATHINAM-R${RESET}"
     echo -e "${YELLOW}  ─────────────────────────────────────────────────────────${RESET}"
     echo ""
 }
@@ -50,6 +77,11 @@ print_help() {
     echo -e "  dragonbyte forensic analyze capture.pcap"
     echo -e "  dragonbyte misc decode encoded.txt"
     echo ""
+    echo -e "${BOLD}AUTHOR:${RESET}"
+    echo -e "  ${GREEN}Sanjai Rathinam${RESET}"
+    echo -e "  ${CYAN}https://github.com/SANJAIRATHINAM-R${RESET}"
+    echo -e "  ${YELLOW}Founder of DragonByte — community-driven cybersecurity initiative${RESET}"
+    echo ""
 }
 
 # No arguments → show help
@@ -67,6 +99,8 @@ fi
 # Version flag
 if [[ "$1" == "-v" || "$1" == "--version" ]]; then
     echo -e "${GREEN}DragonByte CTF Toolkit v1.0${RESET}"
+    echo -e "${CYAN}Author  : Sanjai Rathinam${RESET}"
+    echo -e "${CYAN}GitHub  : https://github.com/SANJAIRATHINAM-R${RESET}"
     exit 0
 fi
 
@@ -110,3 +144,16 @@ if [ $EXIT_CODE -ne 0 ]; then
 fi
 
 exit $EXIT_CODE
+```
+
+---
+
+**How to update on GitHub:**
+
+1. Go to your repo → open `dragonbyte-toolkit/dragonbyte.sh`
+2. Click **pencil icon ✏️**
+3. Press **Ctrl+A** → **Delete**
+4. **Paste** the code above
+5. Scroll down → commit message:
+```
+feat: add author info to banner and help output

@@ -1,39 +1,60 @@
 <div align="center">
 
 ```
-██████╗ ██████╗  █████╗  ██████╗  ██████╗ ███╗   ██╗██████╗ ██╗   ██╗████████╗███████╗
-██╔══██╗██╔══██╗██╔══██╗██╔════╝ ██╔═══██╗████╗  ██║██╔══██╗╚██╗ ██╔╝╚══██╔══╝██╔════╝
-██║  ██║██████╔╝███████║██║  ███╗██║   ██║██╔██╗ ██║██████╔╝ ╚████╔╝    ██║   █████╗  
-██║  ██║██╔══██╗██╔══██║██║   ██║██║   ██║██║╚██╗██║██╔══██╗  ╚██╔╝     ██║   ██╔══╝  
-██████╔╝██║  ██║██║  ██║╚██████╔╝╚██████╔╝██║ ╚████║██████╔╝   ██║      ██║   ███████╗
-╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝  ╚═════╝ ╚═╝  ╚═══╝╚═════╝    ╚═╝      ╚═╝   ╚══════╝
+██████╗ ██████╗  █████╗  ██████╗  ██████╗ ███╗   ██╗     ██████╗ ██╗   ██╗████████╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝ ██╔═══██╗████╗  ██║     ██╔══██╗╚██╗ ██╔╝╚══██╔══╝██╔════╝
+██║  ██║██████╔╝███████║██║  ███╗██║   ██║██╔██╗ ██║     ██████╔╝ ╚████╔╝    ██║   █████╗  
+██║  ██║██╔══██╗██╔══██║██║   ██║██║   ██║██║╚██╗██║     ██╔══██╗  ╚██╔╝     ██║   ██╔══╝  
+██████╔╝██║  ██║██║  ██║╚██████╔╝╚██████╔╝██║ ╚████║     ██████╔╝   ██║      ██║   ███████╗
+╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝  ╚═════╝ ╚═╝  ╚═══╝     ╚═════╝    ╚═╝      ╚═╝   ╚══════╝
 ```
 
-# 🐉 DragonByte CTF Toolkit
+# 🐉 DragonByte CTF Toolkit 
+# 👤created by Sanjairathinam
 
 **The ultimate terminal-based toolkit for CTF players & cybersecurity learners**
 
-[![Version](https://img.shields.io/badge/version-1.0.0-cyan?style=for-the-badge)](https://github.com/YOUR_USERNAME/dragonbyte-toolkit)
+[![Version](https://img.shields.io/badge/version-1.0.0-cyan?style=for-the-badge)](https://github.com/SANJAIRATHINAM-R/DragonByte-CTF-Toolkit-generation)
 [![Platform](https://img.shields.io/badge/platform-Kali%20Linux-557C94?style=for-the-badge&logo=linux)](https://www.kali.org/)
 [![Python](https://img.shields.io/badge/python-3.8%2B-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
 [![Bash](https://img.shields.io/badge/bash-5.0%2B-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)](https://www.gnu.org/software/bash/)
 [![License](https://img.shields.io/badge/license-MIT-green?style=for-the-badge)](LICENSE)
-[![Open Source](https://img.shields.io/badge/open--source-%E2%9D%A4-brightgreen?style=for-the-badge)](https://github.com/YOUR_USERNAME/dragonbyte-toolkit)
-[![Stars](https://img.shields.io/github/stars/YOUR_USERNAME/dragonbyte-toolkit?style=for-the-badge&color=yellow)](https://github.com/YOUR_USERNAME/dragonbyte-toolkit/stargazers)
+[![Open Source](https://img.shields.io/badge/open--source-%E2%9D%A4-brightgreen?style=for-the-badge)](https://github.com/SANJAIRATHINAM-R/DragonByte-CTF-Toolkit-generation)
+[![Stars](https://img.shields.io/github/stars/SANJAIRATHINAM-R/DragonByte-CTF-Toolkit-generation?style=for-the-badge&color=yellow)](https://github.com/SANJAIRATHINAM-R/DragonByte-CTF-Toolkit-generation/stargazers)
+[![Author](https://img.shields.io/badge/author-Sanjai%20Rathinam-red?style=for-the-badge)](https://github.com/SANJAIRATHINAM-R)
 
-> *Crack hashes. Decode stego. Hunt subdomains. Analyze PCAPs. Capture every flag.*  
+> *Crack hashes. Decode stego. Hunt subdomains. Analyze PCAPs. Capture every flag.*
 > *All from one terminal command.*
 
 [🚀 Quick Start](#-quick-start) •
 [📦 Modules](#-modules) •
 [📖 Usage](#-full-usage-reference) •
 [⚙️ Installation](#️-installation) •
-[🔌 Extend](#-adding-a-new-module) •
+[👤 Author](#-author) •
 [🤝 Contributing](#-contributing)
 
 ---
 
-![DragonByte Demo](https://raw.githubusercontent.com/YOUR_USERNAME/dragonbyte-toolkit/main/docs/demo.gif)
+</div>
+
+---
+
+## 👤 Author
+
+<div align="center">
+
+<img src="https://avatars.githubusercontent.com/SANJAIRATHINAM-R" width="100" style="border-radius:50%" alt="Sanjai Rathinam"/>
+
+### Sanjai Rathinam
+
+**Founder of DragonByte | Cybersecurity Enthusiast | CTF Player**
+
+> *"I create tools and resources to help beginners and enthusiasts learn ethical hacking and solve CTF challenges efficiently."*
+
+[![GitHub](https://img.shields.io/badge/GitHub-SANJAIRATHINAM--R-181717?style=for-the-badge&logo=github)](https://github.com/SANJAIRATHINAM-R)
+[![DragonByte](https://img.shields.io/badge/Project-DragonByte-cyan?style=for-the-badge&logo=dragonframe)](https://github.com/SANJAIRATHINAM-R/DragonByte-CTF-Toolkit-generation)
+
+**DragonByte** is a community-driven cybersecurity initiative and terminal-based toolkit that integrates modules for cryptography, steganography, OSINT, web exploitation, forensics, and miscellaneous challenges — designed to simplify learning and CTF problem-solving for everyone.
 
 </div>
 
@@ -75,10 +96,10 @@ subdomains, or analysing a packet capture — DragonByte has you covered.
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/YOUR_USERNAME/dragonbyte-toolkit.git
+git clone https://github.com/SANJAIRATHINAM-R/DragonByte-CTF-Toolkit-generation.git
 
 # 2. Enter the directory
-cd dragonbyte-toolkit
+cd DragonByte-CTF-Toolkit-generation
 
 # 3. Run the installer (installs all tools & dependencies)
 sudo bash install.sh
@@ -90,7 +111,7 @@ dragonbyte --help
 ### ⚡ One-liner Install
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/dragonbyte-toolkit.git && cd dragonbyte-toolkit && sudo bash install.sh
+git clone https://github.com/SANJAIRATHINAM-R/DragonByte-CTF-Toolkit-generation.git && cd DragonByte-CTF-Toolkit-generation && sudo bash install.sh
 ```
 
 ### 🧪 Instant Test (no files needed)
@@ -206,8 +227,8 @@ dragonbyte osint subdomains example.com
 **Subdomain pipeline:**
 
 ```
-[1] Amass   → passive subdomain enumeration
-[2] Gobuster DNS → brute-force with wordlist
+[1] Amass      → passive subdomain enumeration
+[2] Gobuster   → DNS brute-force with wordlist
 ```
 
 **Tools:** `whois` · `nmap` · `theHarvester` · `amass` · `gobuster`
@@ -347,8 +368,8 @@ DawgCTF{...}     WORD{...}  ← any ALL-CAPS prefix
 
 ```bash
 # Clone
-git clone https://github.com/YOUR_USERNAME/dragonbyte-toolkit.git
-cd dragonbyte-toolkit
+git clone https://github.com/SANJAIRATHINAM-R/DragonByte-CTF-Toolkit-generation.git
+cd DragonByte-CTF-Toolkit-generation
 
 # Install
 sudo bash install.sh
@@ -375,13 +396,13 @@ dragonbyte --help
 ### Manual Symlink (if needed)
 
 ```bash
-sudo ln -sf ~/dragonbyte-toolkit/dragonbyte.sh /usr/local/bin/dragonbyte
+sudo ln -sf ~/DragonByte-CTF-Toolkit-generation/dragonbyte.sh /usr/local/bin/dragonbyte
 ```
 
 ### Run Without Installing
 
 ```bash
-cd dragonbyte-toolkit
+cd DragonByte-CTF-Toolkit-generation
 bash dragonbyte.sh --help
 bash dragonbyte.sh misc decode "aGVsbG8="
 ```
@@ -391,7 +412,7 @@ bash dragonbyte.sh misc decode "aGVsbG8="
 ## 📁 Project Structure
 
 ```
-dragonbyte-toolkit/
+DragonByte-CTF-Toolkit-generation/
 │
 ├── 🐚 dragonbyte.sh                  ← Bash CLI: parses args, calls Python
 ├── 🔧 install.sh                     ← Installs all tools & dependencies
@@ -401,7 +422,7 @@ dragonbyte-toolkit/
 │   ├── engine.py                     ← Validates input, routes to modules
 │   ├── flag_detector.py              ← Regex scanner for CTF flag patterns
 │   └── utils.py                      ← print_info/warn/error, run_command,
-│                                         validate_file, tool_available, etc.
+│                                        validate_file, tool_available, etc.
 │
 ├── modules/
 │   ├── crypto/
@@ -549,8 +570,8 @@ dragonbyte pwn checksec ./binary
 
 | Problem | Cause | Fix |
 |---------|-------|-----|
-| `dragonbyte: command not found` | Symlink missing | `sudo ln -sf ~/dragonbyte-toolkit/dragonbyte.sh /usr/local/bin/dragonbyte` |
-| `install.sh: No such file or directory` | Wrong directory | `cd dragonbyte-toolkit` first |
+| `dragonbyte: command not found` | Symlink missing | `sudo ln -sf ~/DragonByte-CTF-Toolkit-generation/dragonbyte.sh /usr/local/bin/dragonbyte` |
+| `install.sh: No such file or directory` | Wrong directory | `cd DragonByte-CTF-Toolkit-generation` first |
 | `python3 not found` | Python not installed | `sudo apt install python3` |
 | `ModuleNotFoundError` | Python package missing | `sudo bash install.sh` again |
 | Tool shows `[!] not found` | Tool not installed | `sudo apt install <toolname>` |
@@ -578,8 +599,8 @@ All contributions are welcome — new modules, bug fixes, better wordlists, docs
 
 ```bash
 # Fork on GitHub, then:
-git clone https://github.com/YOUR_USERNAME/dragonbyte-toolkit.git
-cd dragonbyte-toolkit
+git clone https://github.com/SANJAIRATHINAM-R/DragonByte-CTF-Toolkit-generation.git
+cd DragonByte-CTF-Toolkit-generation
 git checkout -b feature/your-feature-name
 
 # Make changes, test them, then:
@@ -604,14 +625,26 @@ git push origin feature/your-feature-name
 ```
 MIT License
 
-Copyright (c) 2025 YOUR_USERNAME
+Copyright (c) 2026 Sanjairathinam
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software to use, copy, modify, merge, publish, distribute, and/or
-sell copies, subject to the MIT License terms.
-```
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
 
-See [LICENSE](LICENSE) for full text.
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+```
 
 ---
 
@@ -636,14 +669,16 @@ See [LICENSE](LICENSE) for full text.
 
 ### 🐉 Built for CTF players, by CTF players
 
+*Created with ❤️ by **[Sanjairathinam](https://github.com/SANJAIRATHINAM-R)** — Founder of DragonByte*
+
 *If DragonByte helped you capture a flag, give it a ⭐ on GitHub!*
 
 **Happy hacking — legally.** 🔐
 
 ---
 
-[![GitHub stars](https://img.shields.io/github/stars/YOUR_USERNAME/dragonbyte-toolkit?style=social)](https://github.com/YOUR_USERNAME/dragonbyte-toolkit)
-[![GitHub forks](https://img.shields.io/github/forks/YOUR_USERNAME/dragonbyte-toolkit?style=social)](https://github.com/YOUR_USERNAME/dragonbyte-toolkit/fork)
-[![GitHub issues](https://img.shields.io/github/issues/YOUR_USERNAME/dragonbyte-toolkit?style=social)](https://github.com/YOUR_USERNAME/dragonbyte-toolkit/issues)
+[![GitHub stars](https://img.shields.io/github/stars/SANJAIRATHINAM-R/DragonByte-CTF-Toolkit-generation?style=social)](https://github.com/SANJAIRATHINAM-R/DragonByte-CTF-Toolkit-generation)
+[![GitHub forks](https://img.shields.io/github/forks/SANJAIRATHINAM-R/DragonByte-CTF-Toolkit-generation?style=social)](https://github.com/SANJAIRATHINAM-R/DragonByte-CTF-Toolkit-generation/fork)
+[![GitHub issues](https://img.shields.io/github/issues/SANJAIRATHINAM-R/DragonByte-CTF-Toolkit-generation?style=social)](https://github.com/SANJAIRATHINAM-R/DragonByte-CTF-Toolkit-generation/issues)
 
 </div>
